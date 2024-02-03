@@ -1,10 +1,14 @@
 /*  your css code here. If applicable */
-.box{
+#box{
 	height:200px;
+    width:200px;
+	border:2px solid black;
+	background-color:lightblue;
+	
 }
-.box{
-	width:200px;
+#box{
+	text-align:center;
+	padding:50px 50px;
+	text-decoration-color:purple;
 }
-.box{
-	border:1px;
-}
+
